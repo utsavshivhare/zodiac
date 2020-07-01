@@ -1,0 +1,97 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #0C0032;
+  font-family: 'Oxygen', sans-serif;
+}
+#logo-img {
+  background: url('../images/logo.png') no-repeat;
+  width: 170px;
+  height: 170px;
+  margin: 10px 15px 10px 0;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #222;
+  margin-top: 40px;
+  margin-bottom: 0;
+  line-height: .75;
+  font-weight: bold;
+}
+#main-content{
+	margin-top: 50px;
+	margin-bottom: 100px;
+
+}
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+#para{
+	font-family:Gilbert;
+	margin-bottom: 40px;
+	font-size: 1.5em;
+    
+}
+#name{
+	color: black;
+	font-weight: bold;
+	font-family: 'Oxygen', sans-serif;
+
+}
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color:#000;
+  border-top: 0;
+}
+#copy{
+	margin-top: 20px;
+}
+hr{
+	width: 400px;
+
+}
+.find-your-sign {
+    color: #fff;
+    background: #1c144f;
+    background: -moz-linear-gradient(top,rgba(28,20,79,1) 0,rgba(28,20,79,1) 22%,rgba(65,17,73,1) 100%);
+    background: -webkit-linear-gradient(top,rgba(28,20,79,1) 0,rgba(28,20,79,1) 22%,rgba(65,17,73,1) 100%);
+    background: linear-gradient(to bottom,rgba(28,20,79,1) 0,rgba(28,20,79,1) 22%,rgba(65,17,73,1) 100%);
+}
+.find-your-sign {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+#but{
+	margin-top: 20px;
+	color: red;
+	margin-left: 20px;
+	font-weight: bold;
+}
+#day{
+	color: red;
+	font-weight: bold;
+}
+#month{
+	color: red;
+	font-weight: bold;
+}
+#bud{
+	margin-left: 20px;
+	font-weight: bold;
+	color: tomato;
+	font-family: 'Oxygen', sans-serif;
+	text-shadow: 2px 2px 2px #222;
+
+}
+
+

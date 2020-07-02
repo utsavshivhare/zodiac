@@ -93,5 +93,18 @@ hr{
 	text-shadow: 2px 2px 2px #222;
 
 }
+@media (max-width: 767px) {
+  /* Header */
+  .navbar-brand {
+    
+    height: 80px;
+    margin-bottom: 40px;
+  }
+  .navbar-brand h1 { /* Restaurant name */
+    padding-top: 10px;
+    font-size: 8vw; /* 1vw = 1% of viewport width */
+    
+  }
+
 
 

@@ -105,6 +105,12 @@ hr{
     font-size: 8vw; /* 1vw = 1% of viewport width */
     
   }
+	@media (max-width: 479px) {
+  /* Header */
+  .navbar-brand h1 { /* Restaurant name */
+    padding-top: 5px;
+    font-size: 6vw;
+  }
 
 
 
